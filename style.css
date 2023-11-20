@@ -326,3 +326,7 @@ align-content: center;
     overflow: hidden;
 
 }
+.flexible_container .menu a:hover
+{
+    color: rgb(84,150,238) !important;
+}
