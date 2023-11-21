@@ -369,7 +369,7 @@ align-content: center;
     .flexible_container .search_box .s1{background-color: white;border: transparent;margin-left: 0%;margin-right: 0%;}
     .flexible_container .logo a{width:40%;overflow: hidden;text-wrap: nowrap;white-space: nowrap;float: left;}
  
-    .flexible_container .search_box button{ padding: auto;width: auto;padding-left: 2.5%;padding-right: 2.5%;margin-right: 2.5%;}
+    .flexible_container .search_box button{ padding: auto;width: auto;padding-left: 2.5%;padding-right: 2.5%;margin-right: 0%;border-radius: 3px;}
     .flexible_container .search_box{width: 100%;}
     .flexible_container .search_box a{margin-left:2.5%;}
 
